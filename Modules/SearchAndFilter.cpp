@@ -12,4 +12,4 @@
 void searchTripsByFare(RideAnalytics &analytics)
 {
 
-}
+} 

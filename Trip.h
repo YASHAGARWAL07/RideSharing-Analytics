@@ -10,7 +10,7 @@ class Trip
 public:
     int rideID;
     int driverID;
-    double fare;
+    double fare; 
     double rating;
     string zone;
     double distance;

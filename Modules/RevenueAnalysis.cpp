@@ -11,7 +11,7 @@
 3. Sliding Window
 4. Kadane's Algorithm
 */
-
+ 
 void calculateTotalRevenue(RideAnalytics &analytics)
 {
 
