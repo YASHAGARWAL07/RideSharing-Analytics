@@ -149,5 +149,5 @@ g++ main.cpp RideAnalytics.cpp data/sampleData.cpp modules/*.cpp -o analytics
 ```bash
 ./analytics
 ```
-
+ 
 ---
