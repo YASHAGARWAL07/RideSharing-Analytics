@@ -12,4 +12,24 @@
 void searchTripsByFare(RideAnalytics &analytics)
 {
 
-} 
+}
+
+void findCheapestRides(RideAnalytics &analytics)
+{
+
+}
+
+void removeCancelledTrips(RideAnalytics &analytics)
+{
+
+}
+
+void filterRidesByZone(RideAnalytics &analytics)
+{
+
+}
+
+void filterRidesByRatings(RideAnalytics &analytics)
+{
+
+}
