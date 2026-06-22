@@ -8,3 +8,8 @@
 2. min_element
 3. remove + erase
 */
+
+void searchTripsByFare(RideAnalytics &analytics)
+{
+
+}
