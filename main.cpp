@@ -1,4 +1,11 @@
-//menu
-switch 
+#include "RideAnalytics.h"
 
-case 1 totalRevenue();
+int main()
+{
+    RideAnalytics analytics;
+
+    // menu
+
+    return 0;
+
+}

@@ -1,7 +1,6 @@
 // Contains Sample Rides
-#include "../RideAnalytics.h"
+#include "../Trip.h"
 #include <vector>
-#include <iostream>
 using namespace std;
 
 vector<Trip> sampleTrips  = 

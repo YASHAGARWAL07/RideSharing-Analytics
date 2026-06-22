@@ -1,6 +1,6 @@
 // Declares all functions
 #ifndef RIDE_ANALYTICS_H
-#define RIDE_ANALYTICS_H]
+#define RIDE_ANALYTICS_H
 
 #include <iostream>
 #include <vector>
@@ -21,4 +21,6 @@ public:
 
     // Return Trip list
     vector<Trip> &getTrips();
-}
+};
+
+#endif

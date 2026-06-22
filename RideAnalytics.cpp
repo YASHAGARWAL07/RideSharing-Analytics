@@ -4,13 +4,13 @@
 using namespace std;
 
 // Add a new Trip
-void RideAnalytics ::addTrip(Trip trip)
+void RideAnalytics::addTrip(Trip trip)
 {
     trips.push_back(trip);
 }
 
 // Display all trips
-void RideAnalytics ::displayTrips()
+void RideAnalytics::displayTrips()
 {
     for (auto &trip : trips)
     {
@@ -19,7 +19,7 @@ void RideAnalytics ::displayTrips()
 }
 
 // Return reference to trips vector
-vector<Trip> RideAnalytics ::getTrips()
+vector<Trip>& RideAnalytics ::getTrips()
 {
     return trips;
 }
