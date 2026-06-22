@@ -13,7 +13,7 @@
 void driverStatistics(RideAnalytics &analytics)
 {
     //Total rides per driver
-    //Revenue per Driver
+    //Revenue per Driver 
 }
 
 void sortDriversByRating(RideAnalytics &analytics)

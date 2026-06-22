@@ -23,4 +23,3 @@ vector<Trip>& RideAnalytics ::getTrips()
 {
     return trips;
 }
- 

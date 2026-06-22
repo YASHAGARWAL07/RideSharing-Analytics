@@ -14,7 +14,7 @@
  
 void calculateTotalRevenue(RideAnalytics &analytics)
 {
-
+ 
 }
 
 void revenueRangeQuery(RideAnalytics &analytics)
