@@ -14,7 +14,7 @@ void searchTripsByFare(RideAnalytics &analytics)
 
 }
 
-void findCheapestRides(RideAnalytics &analytics)
+void findCheapestRide(RideAnalytics &analytics)
 {
 
 }
@@ -29,7 +29,7 @@ void filterRidesByZone(RideAnalytics &analytics)
 
 }
 
-void filterRidesByRatings(RideAnalytics &analytics)
+void filterRidesByRating(RideAnalytics &analytics)
 {
 
 }
