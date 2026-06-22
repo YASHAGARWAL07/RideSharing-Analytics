@@ -2,24 +2,24 @@
 
 ## Project Overview
 
-Ride Sharing Analytics is a C++ based project that simulates the analytics system of a ride-sharing platform such as Ola or Uber.
+Ride Sharing Analytics is a C++ based project that simulates the backend analytics system of a ride-sharing platform such as Ola or Uber.
 
-The project focuses on processing ride data and generating useful insights using Data Structures, Algorithms, and Object-Oriented Programming concepts.
+The project focuses on processing ride data and generating meaningful insights using Data Structures, Algorithms, and Object-Oriented Programming concepts.
 
-Instead of simply storing ride information, the system performs various analytical operations such as revenue analysis, driver performance evaluation, ride filtering, surge pricing simulation, and fare-based searches.
+Instead of simply storing ride information, the system performs analytical operations such as revenue analysis, driver performance evaluation, ride filtering, surge pricing simulation, and fare-based searches.
 
-The primary objective of the project is to understand how optimized algorithms can be used to efficiently process large datasets.
+The primary objective of this project is to understand how optimized algorithms can be used to efficiently process and analyze large datasets.
 
 ---
 
 ## Team Members
 
-* Shivani
-* Yash Agarwal
-* Nitya
-* Pooja
+* Shivani Joshi (2024BTCSE017)
+* Yash Agarwal (2024BTCSE020)
+* Nitya (2024BTCSE014)
+* Pooja Jangir (2025BTECE0__)
 
-Team Name: **The Optimizers**
+**Team Name:** The Optimizers
 
 ---
 
@@ -32,7 +32,7 @@ Team Name: **The Optimizers**
 * Constructor
 * Access Specifiers (Public / Private)
 * this Pointer
-* Inheritance (for extended ride types)
+* Inheritance
 
 ---
 
@@ -92,7 +92,7 @@ RideSharingAnalytics/
 
 ### Trip.h
 
-Defines the Trip class and stores information related to a ride.
+Defines the Trip class and stores ride-related information.
 
 ### RideAnalytics.h / RideAnalytics.cpp
 
@@ -100,29 +100,29 @@ Acts as the central analytics engine and manages all ride records.
 
 ### RevenueAnalysis.cpp
 
-Contains revenue-related analytics and optimization algorithms.
+Implements revenue-related analytics and optimization algorithms.
 
 ### DriverAnalytics.cpp
 
-Handles driver performance analysis and ranking.
+Handles driver statistics, rankings, and performance analysis.
 
 ### SearchAndFilter.cpp
 
-Implements searching and filtering operations on ride data.
+Implements ride searching and filtering operations.
 
 ### SurgePricing.cpp
 
-Handles surge pricing simulation and zone-based analysis.
+Handles surge pricing simulation and zone-wise analysis.
 
 ### sampleData.cpp
 
-Contains sample ride records used for testing.
+Contains sample ride records used for testing and development.
 
 ---
 
 ## Features
 
-* Add and store ride records
+* Store and manage ride records
 * Revenue analysis
 * Peak earning period detection
 * Driver performance evaluation
@@ -131,6 +131,7 @@ Contains sample ride records used for testing.
 * Cancelled ride filtering
 * Surge pricing simulation
 * Zone-wise analytics
+* Driver-wise analytics
 * Report generation
 
 ---
@@ -143,7 +144,7 @@ Contains sample ride records used for testing.
 g++ main.cpp RideAnalytics.cpp data/sampleData.cpp modules/*.cpp -o analytics
 ```
 
-### Execute
+### Run
 
 ```bash
 ./analytics
