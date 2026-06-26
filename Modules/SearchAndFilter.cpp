@@ -6,9 +6,11 @@
 /*
 1. Binary Search
 2. min_element
-3. remove + erase
+3. remove + er ase
 */
- 
+
+ //Nitya
+
 void searchTripsByFare(RideAnalytics &analytics)
 {
 
@@ -31,5 +33,5 @@ void filterRidesByZone(RideAnalytics &analytics)
 
 void filterRidesByRating(RideAnalytics &analytics)
 {
-    
+
 }

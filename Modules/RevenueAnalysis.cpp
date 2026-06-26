@@ -10,7 +10,9 @@
 3. Sliding Window
 4. Kadane's Algorithm
 */
- 
+
+ //Pooja
+
 void calculateTotalRevenue(RideAnalytics &analytics)
 {
 
@@ -19,7 +21,7 @@ void calculateTotalRevenue(RideAnalytics &analytics)
 void revenueRangeQuery(RideAnalytics &analytics)
 {
 //Prefix Sum
-}
+} 
 
 void averageRevenue(RideAnalytics &analytics)
 {
@@ -30,3 +32,5 @@ void maximumRevenuePeriod(RideAnalytics &analytics)
 {
 //kadane's Algorithm
 }
+
+
