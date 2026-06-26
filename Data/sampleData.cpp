@@ -2,7 +2,7 @@
 #include "../Trip.h"
 #include <vector>
 using namespace std;
-
+ 
 vector<Trip> sampleTrips  = 
     {
         // rideID, driverID, fare, rating, zone, distance, cancelled
