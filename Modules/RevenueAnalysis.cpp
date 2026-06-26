@@ -4,7 +4,6 @@
 #include<vector>
 #include<numeric>
 #include<iostream>
-
 /*
 1. Total Revenue
 2. Prefix Sum
@@ -14,20 +13,20 @@
  
 void calculateTotalRevenue(RideAnalytics &analytics)
 {
- 
+
 }
 
 void revenueRangeQuery(RideAnalytics &analytics)
 {
-
+//Prefix Sum
 }
 
 void averageRevenue(RideAnalytics &analytics)
 {
-
+//Sliding Window
 }
 
 void maximumRevenuePeriod(RideAnalytics &analytics)
 {
-
+//kadane's Algorithm
 }

@@ -31,5 +31,5 @@ void filterRidesByZone(RideAnalytics &analytics)
 
 void filterRidesByRating(RideAnalytics &analytics)
 {
-
+    
 }

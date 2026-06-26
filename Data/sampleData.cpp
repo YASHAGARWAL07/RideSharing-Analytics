@@ -30,3 +30,5 @@ vector<Trip> sampleTrips  =
         {118, 2, 145, 4.2, "North", 4.1, false},
         {119, 3, 260, 4.5, "East", 8.7, false},
         {120, 5, 550, 5.0, "Airport", 17.3, false}}
+
+        

@@ -17,7 +17,7 @@ The primary objective of this project is to understand how optimized algorithms 
 * Shivani Joshi (2024BTCSE017)
 * Yash Agarwal (2024BTCSE020)
 * Nitya (2024BTCSE014)
-* Pooja Jangir (2025BTECE0__)
+* Pooja Jangir (2025BTECE016)
 
 **Team Name:** The Optimizers
 

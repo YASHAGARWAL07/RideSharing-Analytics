@@ -28,10 +28,9 @@ void topDrivers(RideAnalytics &analytics)
 
 void highestRatedDriver(RideAnalytics &analytics)
 {
-
 }
 
 void countHighRatedTrips(RideAnalytics &analytics)
 {
-
+    
 }
