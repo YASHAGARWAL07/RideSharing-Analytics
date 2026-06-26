@@ -13,7 +13,7 @@ The primary objective of this project is to understand how optimized algorithms 
 ---
 
 ## Team Members
-
+ 
 * Shivani Joshi (2024BTCSE017)
 * Yash Agarwal (2024BTCSE020)
 * Nitya (2024BTCSE014)

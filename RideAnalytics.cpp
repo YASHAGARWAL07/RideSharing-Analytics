@@ -8,7 +8,7 @@ void RideAnalytics::addTrip(Trip trip)
 {
     trips.push_back(trip);
 }
-
+ 
 // Display all trips
 void RideAnalytics::displayTrips()
 {

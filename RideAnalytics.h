@@ -11,7 +11,7 @@ class RideAnalytics
 {
 private:
     vector<Trip> trips;
-
+ 
 public:
     // Add a new Trip
     void addTrip(Trip trip);

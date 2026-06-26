@@ -15,7 +15,7 @@ public:
     string zone;
     double distance;
     bool cancelled;
-
+ 
     // Constructor
     Trip(int rideID,
          int driverID,
