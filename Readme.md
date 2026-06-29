@@ -74,13 +74,13 @@ RideSharingAnalytics/
 ├── RideAnalytics.h
 ├── RideAnalytics.cpp
 │
-├── modules/
+├── Modules/
 │   ├── RevenueAnalysis.cpp
 │   ├── DriverAnalytics.cpp
 │   ├── SearchAndFilter.cpp
 │   └── SurgePricing.cpp
 │
-├── data/
+├── Data/
 │   └── sampleData.cpp
 │
 └── README.md
@@ -141,7 +141,7 @@ Contains sample ride records used for testing and development.
 ### Compile
 
 ```bash
-g++ main.cpp RideAnalytics.cpp data/sampleData.cpp modules/*.cpp -o analytics
+g++ main.cpp RideAnalytics.cpp Data/sampleData.cpp Modules/*.cpp -o analytics
 ```
 
 ### Run
@@ -149,5 +149,5 @@ g++ main.cpp RideAnalytics.cpp data/sampleData.cpp modules/*.cpp -o analytics
 ```bash
 ./analytics
 ```
- 
+
 ---
